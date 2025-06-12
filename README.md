@@ -1,2 +1,2 @@
 # ConvexOptimization
-Homework/Project for the MAA307 - Convex Optimization and Optimal Control course at Ecole Polytechnique
+This notebook covers question 2 (my part of the group homework) from 'homework.pdf'.
